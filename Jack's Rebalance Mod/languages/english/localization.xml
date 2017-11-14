@@ -1,0 +1,5 @@
+<strings>
+	<string id="57" xOff="0" yOff="-6" scale="1.0" fontPixelHeight="9" english="ALL ZONES" image="localization/lobby_allzones.png"/>
+	<!-- MORE POPUPS -->
+	<string id="900" xOff="0" yOff="-2" scale="0.8" fontPixelHeight="14" english="TUNE MOD: ENTER A SEED!" image="localization/lobby_enterseed1.png"/>
+</strings>
